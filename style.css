@@ -2484,6 +2484,27 @@ blockquote cite:before {
     03. Header Section CSS
 --------------------------*/
 
+.cdi-logo-text {
+    /* font-family: Livvic; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #000182;
+    vertical-align: middle;
+}
+
+.cdi-logo-part {
+    max-height: 165px;
+    vertical-align: middle;
+}
+
+.cdi-logo-text-footer {
+    /* font-family: Livvic; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: #000182;
+    vertical-align: middle;
+}
+
 .full-width-header {
     position: relative;
 }
@@ -2965,7 +2986,7 @@ blockquote cite:before {
 
 .full-width-header .rs-header.style2 .menu-area .logo-part img {
     transition: 0.4s;
-    max-height: 40px;
+    max-height: 75px;
 }
 
 .full-width-header .rs-header.style2 .menu-area .logo-part .dark {
