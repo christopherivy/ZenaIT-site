@@ -2493,7 +2493,7 @@ blockquote cite:before {
 }
 
 .cdi-logo-part {
-    max-height: 165px;
+    max-height: 145px;
     vertical-align: middle;
 }
 
@@ -2986,7 +2986,7 @@ blockquote cite:before {
 
 .full-width-header .rs-header.style2 .menu-area .logo-part img {
     transition: 0.4s;
-    max-height: 75px;
+    max-height: 55px;
 }
 
 .full-width-header .rs-header.style2 .menu-area .logo-part .dark {
