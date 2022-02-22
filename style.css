@@ -4852,6 +4852,11 @@ body .search-modal .close:hover {
     margin-right: 0;
 }
 
+
+/* cdi  this is the server room image
+https://codepen.io/yoren/pen/Ozboeq?editors=1100
+*/
+
 .rs-slider.style1 .slider-content.slide1 {
     /* background: url(assets/images/slider/slider-1-1.jpg); */
     background: url(assets/images/custom/dev2.jpeg);
